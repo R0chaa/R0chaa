@@ -5,9 +5,9 @@
 ```kotlin
 object Lucas {
  val name = "Lucas Paulo da Rocha"
- val acknowledgements = "Front-End"
+ val acknowledgements = "Front-End & Software Management"
 
- val languages = listOf(
+ val skills = listOf(
       "C/C++",
       "Figma/Adobe XD",
       "JavaScript",
