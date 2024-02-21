@@ -10,6 +10,7 @@ object Lucas {
  val skills = listOf(
       "C/C++",
       "Figma/Adobe XD",
+      "Azure DevOps",
       "JavaScript",
       "TypeScript",
       "Software Engineering",
