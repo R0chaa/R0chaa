@@ -11,6 +11,7 @@
                    "Azure DevOps",
                    "JavaScript",
                    "TypeScript",
+                   "React/React Native",
                    "PowerBI"
                )}
  ```
