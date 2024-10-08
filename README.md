@@ -1,4 +1,6 @@
 # Hello 👻
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=R0chaa&label=Profile%20views&color=64059c&style=for-the-badge&label=R0chaa+Profile+Viewers" alt="R0chaa"/> </p>
  
  ```kotlin
              object Lucas {
