@@ -1,19 +1,19 @@
 # Hello 👻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=R0chaa&label=Profile%20views&color=64059c&style=for-the-badge&label=R0chaa+Profile+Viewers" alt="R0chaa"/> </p>
- 
  ```kotlin
              object Lucas {
               val name = "Lucas Paulo da Rocha"
               val acknowledgements = "Front-End, UX/UI & Software Engineering"
              
               val skills = listOf(
-                   "C/C++",
-                   "Figma/Adobe XD",
-                   "Azure DevOps",
                    "JavaScript",
                    "TypeScript",
                    "React/React Native",
+                   "Node",
+                   "Figma/Adobe XD",
+                   "Azure DevOps",
+                   "C/C++",
+                   "Python",
                    "PowerBI"
                )}
  ```
@@ -33,9 +33,9 @@
 
 
  <a href="https://github.com/R0chaa">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0chaa&theme=dark&layout=compact" />
-  
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0chaa&theme=dark&layout=compact&v=1" />
  </a>
+ 
 </div>
 
 <br>
