@@ -3,10 +3,10 @@
 ```kotlin
 object Lucas {
     val name = "Lucas Rocha"
-    val role = "Software Engineering, UX/UI & Data Analyst"
+    val role = "Software Engineer, UX/UI & Data Analyst"
     val stack = listOf(
-        "Next.js", "React Native", "TypeScript", "Python",
-        "UX/UI Design", "Power BI", "SQL", "Tailwind CSS"
+        "Next.js", "React Native", "TypeScript", "Python", "NodeJS", "Firebase"
+        "UX/UI Design", "Power BI", "SQL", "Google Cloud Platform"
     )
 }
 ```
@@ -41,8 +41,6 @@ I am also a master's student in Applied Computing, developing a project in gener
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R0chaa&show_icons=true&theme=radical&hide_title=true" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0chaa&layout=compact&theme=radical" />
 </div>
 
