@@ -1,41 +1,56 @@
-# Hello 👻
+<h1 align="center">Hi, I'm Rocha 👻</h1>
 
- ```kotlin
-             object Lucas {
-              val name = "Lucas Paulo da Rocha"
-              val acknowledgements = "Front-End, UX/UI & Software Engineering"
-             
-              val skills = listOf(
-                   "JavaScript",
-                   "TypeScript",
-                   "React/React Native",
-                   "Node",
-                   "Figma/Adobe XD",
-                   "Azure DevOps",
-                   "C/C++",
-                   "Python",
-                   "PowerBI"
-               )}
- ```
+```kotlin
+object Lucas {
+    val name = "Lucas Rocha"
+    val role = "Software Engineering, UX/UI & Data Analyst"
+    val stack = listOf(
+        "Next.js", "React Native", "TypeScript", "Python",
+        "UX/UI Design", "Power BI", "SQL", "Tailwind CSS"
+    )
+}
+```
+
+<p align="center">
+  <strong>Fullstack Developer</strong> &nbsp;|&nbsp;
+  <strong>UX/UI Designer</strong> &nbsp;|&nbsp;
+  <strong>Data Analyst</strong> &nbsp;|&nbsp;
+  <strong>AI Enthusiast</strong>
+</p>
+
+
+---
+
+## About Me
+
+Currently working at Mackenzie Presbyterian Institute as a software developer. I focus on educational technologies and data intelligence, including web/mobile development, analytics dashboards, and digital accessibility.  
+I am also a master's student in Applied Computing, developing a project in generative AI and communication accessibility.
+
+---
+
+## Tools & Technologies
+
 <div align="center">
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
- 
- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
- ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
- ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
- ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-
- <a href="https://github.com/R0chaa">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0chaa&theme=dark&layout=compact&v=1" />
- </a>
- 
+ <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,c,cpp,python,tailwind,figma,azure,git,github,linux,docker,postman,bootstrap,vscode,bash,androidstudio,cypress,d3,firebase,linux,materialui,nodejs,sass,supabase,sklearn,vercel,xd" />
+ <br/>
+ <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </div>
 
-<br>
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R0chaa&show_icons=true&theme=radical&hide_title=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0chaa&layout=compact&theme=radical" />
+</div>
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasr0cha)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.rcha04@gmail.com)  
+
+---
