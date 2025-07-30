@@ -12,7 +12,7 @@ object Lucas {
 ```
 
 <p align="center">
-  <strong>Fullstack Developer</strong> &nbsp;|&nbsp;
+  <strong>Developer</strong> &nbsp;|&nbsp;
   <strong>UX/UI Designer</strong> &nbsp;|&nbsp;
   <strong>Data Analyst</strong> &nbsp;|&nbsp;
   <strong>AI Enthusiast</strong>
@@ -31,7 +31,7 @@ I am also a master's student in Applied Computing, developing a project in gener
 ## Tools & Technologies
 
 <div align="center">
- <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,c,cpp,python,tailwind,figma,azure,git,github,linux,docker,postman,bootstrap,vscode,bash,androidstudio,cypress,d3,firebase,linux,materialui,nodejs,sass,supabase,sklearn,vercel,xd" />
+ <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,c,cpp,python,tailwind,figma,azure,git,github,vite,docker,postman,bootstrap,vscode,bash,androidstudio,cypress,d3,firebase,linux,materialui,nodejs,sass,supabase,sklearn,vercel,xd" />
  <br/>
  <img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </div>
