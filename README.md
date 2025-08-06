@@ -41,7 +41,8 @@ I am also a master's student in Applied Computing, developing a project in gener
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0chaa&layout=compact&theme=radical" />
+  <img src="https://raw.githubusercontent.com/R0chaa/profile_graph/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/R0chaa/profile_graph/master/generated/languages.svg#gh-dark-mode-only" />
 </div>
 
 ---
