@@ -3,21 +3,13 @@
 ```kotlin
 object Lucas {
     val name = "Lucas Rocha"
-    val role = "Software Engineer, UX/UI & Data Analyst"
+    val role = "Software Engineer & UX/UI"
     val stack = listOf(
-        "Next.js", "React Native", "TypeScript", "Python", "NodeJS", "Firebase"
-        "UX/UI Design", "Power BI", "SQL", "Google Cloud Platform"
+        "Next.js", "React", "React Native", "TypeScript", "JavaScript", "NodeJS", "PostgreSQL", "Firebase"
+        "UX/UI Design", "SQL", "Google Cloud Platform", "Azure DevOps"
     )
 }
 ```
-
-<p align="center">
-  <strong>Developer</strong> &nbsp;|&nbsp;
-  <strong>UX/UI Designer</strong> &nbsp;|&nbsp;
-  <strong>Data Analyst</strong> &nbsp;|&nbsp;
-  <strong>AI Enthusiast</strong>
-</p>
-
 
 ---
 
