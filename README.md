@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm Rocha 👻</h1>
-
 ```kotlin
 object Lucas {
     val name = "Lucas Rocha"
-    val role = "Software Engineer & UX/UI"
+    val role = "Software Dev & UX/UI"
     val stack = listOf(
         "Next.js", "React", "React Native", "TypeScript", "JavaScript", "NodeJS", "PostgreSQL", "Firebase"
         "UX/UI Design", "SQL", "Google Cloud Platform", "Azure DevOps"
